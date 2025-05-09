@@ -13,7 +13,7 @@ The dataset `Diwali Sales Data.csv` includes:
 - Purchase behavior (Product Categories, Amount spent)
 - Geographic information (City, State)
 
-![Dataset Preview](Screenshot 2025-05-09 172519.png)
+![Dataset Preview](Screenshot2025-05-09172519.png)
 ---
 
 ## 🔧 Tools & Libraries Used
