@@ -12,7 +12,7 @@ The dataset `Diwali Sales Data.csv` includes:
 - Customer demographics (Gender, Age Group, Marital Status, etc.)
 - Purchase behavior (Product Categories, Amount spent)
 - Geographic information (City, State)
-
+![Dataset Preview](Screenshot 2025-05-09 172519.png)
 ---
 
 ## 🔧 Tools & Libraries Used
